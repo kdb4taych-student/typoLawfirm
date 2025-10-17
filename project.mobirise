@@ -78,7 +78,8 @@
         "meta_descr": "We are a trusted modern law firm providing expert, client-focused legal solutions with integrity and results.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/a5%2520main%2520page%2520picture-2000x1080.png"
       },
       "components": [
         {
